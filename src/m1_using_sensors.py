@@ -375,7 +375,7 @@ class DriveSystem(object):
         Goes straight at the given speed until the robot is over
         a black surface, as measured by the color sensor.
         """
-        
+
         pass
 
     def go_forward_until_distance_is_less_than(self, inches, speed):
